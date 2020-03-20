@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 using JetBrains.Annotations;
 
-namespace MetaBrainz.MusicBrainz.Interfaces {
+namespace MetaBrainz.Common.Json {
 
   /// <summary>An object based on a JSON string (as returned by web services).</summary>
   [PublicAPI]
